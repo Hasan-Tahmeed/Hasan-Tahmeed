@@ -3,6 +3,7 @@
   <img src="https://profile-counter.glitch.me/Hasan-Tahmeed/count.svg" alt="Visitor's Count" />
 </div>
 
+
 <div style="padding: 100px;">
   <p></p>
 </div>
@@ -19,15 +20,16 @@
 ### A data-driven problem solver and product manager passionate <br> about building impactful tech solutions
 
 <p align="center">
-  <a href="mailto:hello@tahmeedhasan.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tahmeedhasan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tahmeedhasan.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/tahmeedhasan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://tahmeedhasan.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
+</a>
+<a href="mailto:tahmeed.hasan@selisegroup.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0A9396?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 </div>
 
@@ -50,7 +52,7 @@
 </div>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahmeedHasan13&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Tahmeed&show_icons=true&theme=tokyonight" />
 </p>
 <hr>
 <p align="center">
