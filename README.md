@@ -10,10 +10,10 @@
 <hr>
 
 <div align="center" style="width: 100%; max-height: 300px; overflow: hidden; border-radius: 10px;">
-  <img src="https://github.com/Hasan-Tahmeed/Hasan-Tahmeed/blob/main/banner.gif?raw=true" alt="Banner GIF" width="100%" />
+  <img src="https://github.com/TahmeedHasan13/TahmeedHasan13/blob/main/banner.gif?raw=true" alt="Banner GIF" width="100%" />
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Sora&size=32&center=true&vCenter=true&width=500&height=70&color=07F60E&duration=4000&lines=hi+there!+✌️;+I'm+Tahmeed+Hasan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Sora&size=32&center=true&vCenter=true&width=500&height=70&color=0A9396&duration=4000&lines=hi+there!+✌️;+I'm+Tahmeed+Hasan!;" />
 </h1>
 
 ### A data-driven problem solver and product manager passionate <br> about building impactful tech solutions
